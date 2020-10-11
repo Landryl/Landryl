@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, it's Landryl!
+
+I'm a student in Software Engineering at EPITA.
+
+### Elsewhere on the web
+
+* Website: https://landryl.fr
+* Linkedin: https://www.linkedin.com/in/cyril-berger/
+* Cryptohack: https://cryptohack.org/user/Landryl/
 
 <!--
 **Landryl/Landryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
